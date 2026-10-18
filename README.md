@@ -25,12 +25,6 @@
 
 <br/>
 
-## Contributions
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
-
-<br/><br/>
-
 <img src="./connect.svg?v=3" alt="Let's build something" width="100%"/>
 
 <a href="https://williamdrummond.com.au"><img src="https://img.shields.io/badge/Website-2F6BFF?style=for-the-badge&logo=googlechrome&logoColor=05070C" alt="Website"/></a>

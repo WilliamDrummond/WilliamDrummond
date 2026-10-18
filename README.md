@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./hero.svg?v=2" alt="Will Drummond, Digital Technology Engineer" width="100%"/>
+<img src="./hero.svg?v=3" alt="Will Drummond, Digital Technology Engineer" width="100%"/>
 
 <br/><br/>
 
-<img src="./stack.svg?v=2" alt="Tools I build with" width="100%"/>
+<img src="./stack.svg?v=3" alt="Tools I build with" width="100%"/>
 
 <br/><br/>
 
-<img src="./workshop.svg?v=2" alt="What I'm building" width="100%"/>
+<img src="./workshop.svg?v=3" alt="What I'm building" width="100%"/>
 
 </div>
 
@@ -31,10 +31,10 @@
 
 <br/><br/>
 
-<img src="./connect.svg?v=2" alt="Let's build something" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's build something" width="100%"/>
 
-<a href="https://williamdrummond.com.au"><img src="https://img.shields.io/badge/Website-ff6a1a?style=for-the-badge&logo=googlechrome&logoColor=0a0c0f" alt="Website"/></a>
-<a href="https://echoesofidols.com"><img src="https://img.shields.io/badge/Echoes_of_Idols-ffb020?style=for-the-badge&logo=etsy&logoColor=0a0c0f" alt="Echoes of Idols"/></a>
+<a href="https://williamdrummond.com.au"><img src="https://img.shields.io/badge/Website-2F6BFF?style=for-the-badge&logo=googlechrome&logoColor=05070C" alt="Website"/></a>
+<a href="https://echoesofidols.com"><img src="https://img.shields.io/badge/Echoes_of_Idols-8DB0FF?style=for-the-badge&logo=etsy&logoColor=05070C" alt="Echoes of Idols"/></a>
 
 
 </div>

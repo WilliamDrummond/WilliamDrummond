@@ -38,35 +38,25 @@
 
 <circle cx="250" cy="228" r="300" fill="url(#cglow)"/>
 
-<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// OPEN A CHANNEL</text>
-<text x="40" y="98" class="d" font-size="46" letter-spacing="1.5" fill="#e8edf2">LET'S BUILD SOMETHING</text>
-<text x="40" y="136" class="b" font-size="18" fill="#9aa4af">Automation, AI tooling or a print job:</text>
-<text x="40" y="160" class="b" font-size="18" fill="#9aa4af">if it's slow and repeatable, I want to kill it.</text>
-<circle class="wv" cx="250" cy="228" r="70" fill="none" stroke="#ff6a1a" stroke-width="2" style="animation-delay:0s"/><circle class="wv" cx="250" cy="228" r="70" fill="none" stroke="#ff6a1a" stroke-width="2" style="animation-delay:1s"/><circle class="wv" cx="250" cy="228" r="70" fill="none" stroke="#ff6a1a" stroke-width="2" style="animation-delay:2s"/>
-<rect x="40" y="196" width="10" height="120" fill="#ffb020"/><rect x="56" y="226" width="10" height="90" fill="#ff6a1a"/><rect x="72" y="256" width="10" height="60" fill="#e5322d"/>
-<polygon points="288.0,228.0 269.0,260.9 231.0,260.9 212.0,228.0 231.0,195.1 269.0,195.1" fill="#11151a" stroke="#ff6a1a" stroke-width="2.5"/>
-<text x="250" y="240" text-anchor="middle" class="d" font-size="34" fill="#ffb020">WD</text>
+<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// CONTACT</text>
+<text x="40" y="98" class="d" font-size="46" letter-spacing="1.5" fill="#e8edf2">FIND ME</text>
+<text x="40" y="136" class="b" font-size="18" fill="#9aa4af">Happy to talk CAD automation, AI tools</text>
+<text x="40" y="160" class="b" font-size="18" fill="#9aa4af">or a custom print.</text>
+
 <g class="rise" style="animation-delay:0.15s">
-<rect x="520" y="120" width="230" height="196" rx="12" fill="#11151a" stroke="#232a33"/>
-<rect x="520" y="120" width="230" height="4" fill="#ff6a1a"/>
-<text x="542" y="160" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ff6a1a">WEB</text>
-<text x="542" y="222" class="d" font-size="30" fill="#e8edf2">RÉSUMÉ + PORTFOLIO</text>
-<text x="542" y="250" class="m" font-size="12" fill="#8b949e">williamdrummond.com.au</text>
-<path d="M542 282h40 M572 274l10 8-10 8" fill="none" stroke="#ff6a1a" stroke-width="2.2"/>
+<rect x="560" y="120" width="320" height="196" rx="12" fill="#11151a" stroke="#232a33"/>
+<rect x="560" y="120" width="320" height="4" fill="#ff6a1a"/>
+<text x="582" y="160" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ff6a1a">WEB</text>
+<text x="582" y="222" class="d" font-size="30" fill="#e8edf2">RÉSUMÉ AND PORTFOLIO</text>
+<text x="582" y="250" class="m" font-size="12" fill="#8b949e">williamdrummond.com.au</text>
+<path d="M582 282h40 M612 274l10 8-10 8" fill="none" stroke="#ff6a1a" stroke-width="2.2"/>
 </g><g class="rise" style="animation-delay:0.27s">
-<rect x="770" y="120" width="230" height="196" rx="12" fill="#11151a" stroke="#232a33"/>
-<rect x="770" y="120" width="230" height="4" fill="#ffb020"/>
-<text x="792" y="160" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ffb020">SHOP</text>
-<text x="792" y="222" class="d" font-size="30" fill="#e8edf2">ECHOES OF IDOLS</text>
-<text x="792" y="250" class="m" font-size="12" fill="#8b949e">echoesofidols.com</text>
-<path d="M792 282h40 M822 274l10 8-10 8" fill="none" stroke="#ffb020" stroke-width="2.2"/>
-</g><g class="rise" style="animation-delay:0.39s">
-<rect x="1020" y="120" width="230" height="196" rx="12" fill="#11151a" stroke="#232a33"/>
-<rect x="1020" y="120" width="230" height="4" fill="#4fa3d1"/>
-<text x="1042" y="160" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#4fa3d1">GIT</text>
-<text x="1042" y="222" class="d" font-size="30" fill="#e8edf2">YOU'RE HERE</text>
-<text x="1042" y="250" class="m" font-size="12" fill="#8b949e">github.com/WilliamDrummond</text>
-<path d="M1042 282h40 M1072 274l10 8-10 8" fill="none" stroke="#4fa3d1" stroke-width="2.2"/>
+<rect x="900" y="120" width="320" height="196" rx="12" fill="#11151a" stroke="#232a33"/>
+<rect x="900" y="120" width="320" height="4" fill="#ffb020"/>
+<text x="922" y="160" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ffb020">SHOP</text>
+<text x="922" y="222" class="d" font-size="30" fill="#e8edf2">ECHOES OF IDOLS</text>
+<text x="922" y="250" class="m" font-size="12" fill="#8b949e">echoesofidols.com</text>
+<path d="M922 282h40 M952 274l10 8-10 8" fill="none" stroke="#ffb020" stroke-width="2.2"/>
 </g>
 </g>
 <rect x="1" y="1" width="1278" height="358" rx="18" fill="none" stroke="url(#cedge)" stroke-width="2"/>

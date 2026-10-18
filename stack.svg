@@ -39,8 +39,8 @@
 
 <circle cx="250" cy="300" r="300" fill="url(#sglow)"/>
 
-<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// ARSENAL</text>
-<text x="40" y="98" class="d" font-size="46" letter-spacing="1.5" fill="#e8edf2">TOOLS I BUILD WITH</text>
+<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// STACK</text>
+<text x="40" y="98" class="d" font-size="46" letter-spacing="1.5" fill="#e8edf2">WHAT I USE</text>
 <g fill="none" stroke="#232a33" stroke-width="1.5">
 <circle cx="250" cy="300" r="60"/><circle cx="250" cy="300" r="120"/><circle cx="250" cy="300" r="180"/>
 <path d="M60 300H440 M250 110V490" stroke-dasharray="4 6"/>

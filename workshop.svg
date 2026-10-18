@@ -38,65 +38,54 @@
 
 <circle cx="1280" cy="0" r="520" fill="url(#wglow)"/>
 
-<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// WORKSHOP</text>
+<text x="40" y="52" class="m" font-size="13" font-weight="700" letter-spacing="3.5" fill="#ff6a1a">// PROJECTS</text>
 <text x="40" y="98" class="d" font-size="46" letter-spacing="1.5" fill="#e8edf2">WHAT I'M BUILDING</text>
-<g class="m" font-size="12" font-weight="700" letter-spacing="2.5">
-<rect x="1036" y="44" width="204" height="30" rx="15" fill="#ffb020" fill-opacity=".08" stroke="#ffb020" stroke-opacity=".45"/>
-<circle cx="1056" cy="59" r="4.5" fill="#ffb020" class="pulse"/><text x="1068" y="63" fill="#ffb020">4 BUILDS ACTIVE</text>
-</g>
+
 <g class="rise" style="animation-delay:0.10s">
 <rect x="40" y="128" width="590" height="206" rx="12" fill="#11151a" stroke="#232a33"/>
 <path d="M40 140a12 12 0 0 1 12-12h80" fill="none" stroke="#ff6a1a" stroke-width="3"/>
-<text x="600" y="208" text-anchor="end" class="d" font-size="96" fill="#ff6a1a" fill-opacity=".09">01</text>
-<text x="68" y="172" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ff6a1a">BUILD 01</text>
 <rect x="471.2" y="152" width="134.8" height="26" rx="13" fill="#ff6a1a" fill-opacity=".1" stroke="#ff6a1a" stroke-opacity=".5"/>
 <circle cx="485.2" cy="165" r="4" fill="#ff6a1a" class="pulse"/>
-<text x="495.2" y="169" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ff6a1a">DAILY DRIVER</text>
+<text x="495.2" y="169" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ff6a1a">IN DAILY USE</text>
 <text x="68" y="220" class="d" font-size="42" letter-spacing="1.5" fill="#e8edf2">FREEDOM</text>
-<text x="68" y="252" class="b" font-size="17" fill="#9aa4af">My personal operating system: an AI second brain</text>
-<text x="68" y="276" class="b" font-size="17" fill="#9aa4af">that runs money, health, home and 73 apps.</text>
+<text x="68" y="252" class="b" font-size="17" fill="#9aa4af">My personal OS. 73 apps for money, health and</text>
+<text x="68" y="276" class="b" font-size="17" fill="#9aa4af">home, sharing one notes system Claude keeps tidy.</text>
 <path d="M68 296H602" stroke="#232a33"/>
 <text x="68" y="318" class="m" font-size="12.5" fill="#8b949e">Cloudflare · D1 · Claude</text>
 <rect class="bar" x="40" y="331" width="590" height="3" fill="#ff6a1a" style="animation-delay:0.50s;transform:scaleX(0)"/>
 </g><g class="rise" style="animation-delay:0.22s">
 <rect x="650" y="128" width="590" height="206" rx="12" fill="#11151a" stroke="#232a33"/>
 <path d="M650 140a12 12 0 0 1 12-12h80" fill="none" stroke="#ffb020" stroke-width="3"/>
-<text x="1210" y="208" text-anchor="end" class="d" font-size="96" fill="#ffb020" fill-opacity=".09">02</text>
-<text x="678" y="172" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#ffb020">BUILD 02</text>
 <rect x="1123.2" y="152" width="92.80000000000001" height="26" rx="13" fill="#ffb020" fill-opacity=".1" stroke="#ffb020" stroke-opacity=".5"/>
 <circle cx="1137.2" cy="165" r="4" fill="#ffb020" class="pulse"/>
-<text x="1147.2" y="169" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ffb020">TRADING</text>
+<text x="1147.2" y="169" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ffb020">SELLING</text>
 <text x="678" y="220" class="d" font-size="42" letter-spacing="1.5" fill="#e8edf2">ECHOES OF IDOLS</text>
-<text x="678" y="252" class="b" font-size="17" fill="#9aa4af">One-person 3D printing business. Original designs</text>
-<text x="678" y="276" class="b" font-size="17" fill="#9aa4af">sold as prints and STL files worldwide.</text>
+<text x="678" y="252" class="b" font-size="17" fill="#9aa4af">My one-person 3D printing business. Original designs</text>
+<text x="678" y="276" class="b" font-size="17" fill="#9aa4af">sold as prints and STL files on Etsy and MakerWorld.</text>
 <path d="M678 296H1212" stroke="#232a33"/>
 <text x="678" y="318" class="m" font-size="12.5" fill="#8b949e">Bambu P1S ×2 · Etsy API · Automation</text>
 <rect class="bar" x="650" y="331" width="590" height="3" fill="#ffb020" style="animation-delay:0.65s;transform:scaleX(0)"/>
 </g><g class="rise" style="animation-delay:0.34s">
 <rect x="40" y="354" width="590" height="206" rx="12" fill="#11151a" stroke="#232a33"/>
 <path d="M40 366a12 12 0 0 1 12-12h80" fill="none" stroke="#e5322d" stroke-width="3"/>
-<text x="600" y="434" text-anchor="end" class="d" font-size="96" fill="#e5322d" fill-opacity=".09">03</text>
-<text x="68" y="398" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#e5322d">BUILD 03</text>
 <rect x="538.4" y="378" width="67.6" height="26" rx="13" fill="#e5322d" fill-opacity=".1" stroke="#e5322d" stroke-opacity=".5"/>
 <circle cx="552.4" cy="391" r="4" fill="#e5322d" class="pulse"/>
 <text x="562.4" y="395" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#e5322d">LIVE</text>
 <text x="68" y="446" class="d" font-size="42" letter-spacing="1.5" fill="#e8edf2">PHOTOCARD BUILDER</text>
-<text x="68" y="478" class="b" font-size="17" fill="#9aa4af">Browser app: design a 3D-printable photocard</text>
-<text x="68" y="502" class="b" font-size="17" fill="#9aa4af">holder and export a multi-colour 3MF.</text>
+<text x="68" y="478" class="b" font-size="17" fill="#9aa4af">Design a 3D-printable photocard holder in the</text>
+<text x="68" y="502" class="b" font-size="17" fill="#9aa4af">browser and export a multi-colour 3MF.</text>
 <path d="M68 522H602" stroke="#232a33"/>
 <text x="68" y="544" class="m" font-size="12.5" fill="#8b949e">Cloudflare Pages · D1 · R2 · Stripe</text>
 <rect class="bar" x="40" y="557" width="590" height="3" fill="#e5322d" style="animation-delay:0.80s;transform:scaleX(0)"/>
 </g><g class="rise" style="animation-delay:0.46s">
 <rect x="650" y="354" width="590" height="206" rx="12" fill="#11151a" stroke="#232a33"/>
 <path d="M650 366a12 12 0 0 1 12-12h80" fill="none" stroke="#4fa3d1" stroke-width="3"/>
-<text x="1210" y="434" text-anchor="end" class="d" font-size="96" fill="#4fa3d1" fill-opacity=".09">04</text>
-<text x="678" y="398" class="m" font-size="12" font-weight="700" letter-spacing="3" fill="#4fa3d1">BUILD 04</text>
-<rect x="1089.6" y="378" width="126.4" height="26" rx="13" fill="#4fa3d1" fill-opacity=".1" stroke="#4fa3d1" stroke-opacity=".5"/>
-<circle cx="1103.6" cy="391" r="4" fill="#4fa3d1" class="pulse"/>
-<text x="1113.6" y="395" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#4fa3d1">IN THE SHOP</text>
+<rect x="1064.4" y="378" width="151.60000000000002" height="26" rx="13" fill="#4fa3d1" fill-opacity=".1" stroke="#4fa3d1" stroke-opacity=".5"/>
+<circle cx="1078.4" cy="391" r="4" fill="#4fa3d1" class="pulse"/>
+<text x="1088.4" y="395" class="m" font-size="11" font-weight="700" letter-spacing="1.5" fill="#4fa3d1">IN DEVELOPMENT</text>
 <text x="678" y="446" class="d" font-size="42" letter-spacing="1.5" fill="#e8edf2">ECHOESCAD</text>
-<text x="678" y="478" class="b" font-size="17" fill="#9aa4af">In-browser parametric CAD that generates</text>
-<text x="678" y="502" class="b" font-size="17" fill="#9aa4af">product models like lightstick stands.</text>
+<text x="678" y="478" class="b" font-size="17" fill="#9aa4af">Parametric CAD in the browser. I use it to</text>
+<text x="678" y="502" class="b" font-size="17" fill="#9aa4af">generate product models like lightstick stands.</text>
 <path d="M678 522H1212" stroke="#232a33"/>
 <text x="678" y="544" class="m" font-size="12.5" fill="#8b949e">Three.js · Vite · Hono · D1</text>
 <rect class="bar" x="650" y="557" width="590" height="3" fill="#4fa3d1" style="animation-delay:0.95s;transform:scaleX(0)"/>
